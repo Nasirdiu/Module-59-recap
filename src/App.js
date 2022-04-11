@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./components/Header/Header";
 import Shop from "./components/Shop/Shop";
 import Order from "./components/Order/Order";
